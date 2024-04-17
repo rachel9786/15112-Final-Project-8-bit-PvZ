@@ -11,9 +11,9 @@ A Plants vs. Zombies inspired mini game created in Python for my 15112 Final Pro
     How to Run:
         - run Python Source File titled "TP Plants vs Zombies" in 
         an updated editor of your choice (that can run python)
-        - all images used in game are included in the TP zip file,
-        make sure to download the entire zip file and keep the image
-        files in their same location
+        - all images used in game are included in the Term Project file,
+        make sure to download the entire file and keep the images in 
+        their same location
 
     Included Libraries:
         CMU Graphics
